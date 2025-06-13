@@ -1,0 +1,136 @@
+{
+  "header": {
+    "title": "Digital Localization Specialist",
+    "navHome": "Home",
+    "navAbout": "About Me",
+    "navSkills": "Skills",
+    "navServices": "Services",
+    "navExamples": "Examples",
+    "navContact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello! I'm {{name}}",
+    "tagline": "Your localization expert for connecting with the digital world.",
+    "cta": "Let's Talk!",
+    "profileImageAlt": "Profile picture of {{name}}"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraph1": "As a native Spanish speaker from Buenos Aires, Argentina, with an advanced command of English, my mission is to help companies like yours expand their reach and authentically connect with both the global Spanish-speaking market (Latin America and Europe) and the English-speaking market (North America, UK, and beyond).",
+    "paragraph2": "I specialize in translating and localizing digital content, both from English to Spanish and Spanish to English, ensuring not only impeccable linguistic precision and deep cultural adaptation, but also faithful adherence to the meaning as per the client's provided technical glossary.",
+    "paragraph3": "My focus is on producing neutral, clear, and effective Spanish, as well as natural and precise English, that authentically resonates with each target audience."
+  },
+  "skills": {
+    "title": "Skills",
+    "paragraph1": "Thanks to my unique combination of linguistic, technical, and creative skills, I will transform your content to genuinely connect with your target market.",
+    "paragraph2": "Explore below how these capabilities can boost your project.",
+    "linguistic": {
+      "title": "Linguistic",
+      "description": [
+        "Precise, natural translation with cultural adaptation.",
+        "Neutral, clear, and effective Spanish for global audiences.",
+        "Deep cultural adaptation: messages, CTAs, references.",
+        "Expert terminology management and project consistency."
+      ]
+    },
+    "technical": {
+      "title": "Technical",
+      "description": [
+        "Web development: HTML, JS, CSS, Angular, React.",
+        "Expert handling of localization formats (JSON, XML, SRT).",
+        "Understanding of internal structure: web, games, apps.",
+        "GitHub for version control and technical collaboration."
+      ]
+    },
+    "creative": {
+      "title": "Creative",
+      "description": [
+        "Graphic design: Adobe Suite, Blender, Inkscape.",
+        "Comprehensive visual localization: banners, UI, on-screen graphics.",
+        "Text editing in images/videos with visual consistency.",
+        "Script adaptation for dubbing and lip-sync."
+      ]
+    }
+  },
+  "services": {
+    "title": "Digital Localization Services",
+    "paragraph1": "I transform your digital content to authentically connect with and make an impact on global Spanish-speaking and English-speaking markets.",
+    "paragraph2": "My comprehensive solutions, from websites to video games and documents, combine linguistic precision, technical mastery, and deep cultural sensitivity, ensuring your message is not just understood, but drives action and builds loyalty with every audience.",
+    "webLocalization": {
+      "title": "Website Localization",
+      "description": [
+        "Comprehensive text translation (pages, blogs, UI) from English to Spanish and vice versa, focusing on neutral Spanish for maximum resonance.",
+        "Strategic cultural adaptation of messages and calls to action (CTAs) to optimize conversion in Spanish-speaking and English-speaking markets.",
+        "Deep technical understanding of web structure (HTML, CSS, JS, frameworks) to facilitate contextualization, seamless integration, and proactive identification of potential technical issues.",
+        "Expert localization of visual elements (banners, infographics) using Adobe Photoshop and Illustrator, ensuring impactful visual consistency."
+      ]
+    },
+    "gameLocalization": {
+      "title": "Game Localization",
+      "description": [
+        "Immersive translation of dialogues, user interfaces (UI), descriptions, tutorials, and promotional material (EN<>ES) to capture the game's essence.",
+        "Expert cultural adaptation of jokes, references, and names to ensure full player immersion and an authentic experience in both cultures.",
+        "Proficient and efficient handling of key industry file formats (JSON, XML, string files) to ensure seamless and error-free integration into the game engine.",
+        "Navigating and integrating into game development workflows, leveraging my understanding to optimize terminological consistency and final quality."
+      ]
+    },
+    "audiovisualLocalization": {
+      "title": "Audiovisual Content Localization",
+      "description": [
+        "Accurate and natural subtitle translation and synchronization (SRT, SSA, VTT formats, etc.) for English and Spanish content, enhancing accessibility and reach.",
+        "Creative adaptation of translated scripts for dubbing projects, ensuring naturalness and lip-sync that captivates the audience.",
+        "Meticulous localization of on-screen graphics and embedded text in videos, maintaining the original's aesthetics and clarity."
+      ]
+    },
+    "appLocalization": {
+      "title": "Application Localization",
+      "description": [
+        "Detailed translation of user interfaces, system messages, help documentation, and marketing materials for mobile, web, and desktop apps (EN<>ES), focused on usability.",
+        "Expert management of localization files (JSON, XML, PO, INF, and other specific formats) to ensure correct implementation across various platforms.",
+        "Active collaboration in localization testing (LQA) to guarantee correct display, functionality, and a flawless user experience.",
+        "Holistic cultural adaptation to deliver a smooth, intuitive, and coherent user experience in target markets."
+      ]
+    },
+    "documentTranslation": {
+      "title": "Document Translation",
+      "description": [
+        "Accurate, fluent, and professional translation of all document types: technical, marketing, legal, corporate (EN<>ES), tailored to each purpose.",
+        "Advanced handling of Microsoft Office Suite (Word, Excel, PowerPoint) to deliver professionally formatted, ready-to-use documents.",
+        "Rigorous adherence to client-provided specific terminology and style guides, ensuring consistency and brand voice.",
+        "Meticulous proofreading and editing to ensure maximum quality, clarity, precision, and correctness in every delivered document."
+      ]
+    }
+  },
+  "examples": {
+    "title": "Localization Examples",
+    "json": {
+      "title": "JSON (.json)",
+      "description": "Widely used for web applications, mobile apps, game configurations, and API responses."
+    },
+    "xml": {
+      "title": "XML (.xml)",
+      "description": "Common in Android app development (strings.xml), software localization (e.g., .resx files), and structured data exchange."
+    },
+    "srt": {
+      "title": "SubRip Text (.srt)",
+      "description": "One of the most common subtitle file formats. It includes sequential numbering, timecodes for start and end display, and the subtitle text."
+    },
+    "po": {
+      "title": "Portable Object (.po)",
+      "description": "Used by GNU gettext, a common localization system in open-source software and many web frameworks (like Django, WordPress)."
+    },
+    "strings_file": {
+      "title": "Apple iOS/macOS (.strings)",
+      "description": "Key-value pair format used for localizing applications on Apple platforms."
+    },
+    "bannerImage": "/images/banner_en.jpg",
+    "bannerDescription": "This image changes based on the selected language",
+    "imageAlt": "Promotional banner"
+  },
+  "footer": {
+    "text": "© 2025 {{name}}. All rights reserved.",
+    "brandDescription": "Helping you connect with the digital world through expert content localization from English to Spanish and vice versa.",
+    "connectTitle": "Connect",
+    "addressTitle": "Contact Me"
+  }
+}

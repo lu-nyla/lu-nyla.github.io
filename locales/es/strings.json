@@ -1,0 +1,136 @@
+{
+  "header": {
+    "title": "Especialista en Localización Digital",
+    "navHome": "Inicio",
+    "navAbout": "Sobre Mí",
+    "navSkills": "Habilidades",
+    "navServices": "Servicios",
+    "navExamples": "Ejemplos",
+    "navContact": "Contacto"
+  },
+  "hero": {
+    "greeting": "¡Hola! Soy {{name}}",
+    "tagline": "Tu experta en localización para conectar con el mundo digital.",
+    "cta": "¡Hablemos!",
+    "profileImageAlt": "Foto de perfil de {{name}}"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "paragraph1": "Soy hablante nativa de español de Buenos Aires, Argentina, y poseo un dominio avanzado del inglés. Mi misión es ayudar a empresas como la tuya a expandir su alcance y conectar auténticamente tanto con el mercado hispanohablante global (América Latina y Europa) como con el mercado angloparlante (Norteamérica, Reino Unido y más).",
+    "paragraph2": "Me especializo en traducir y localizar contenido digital, tanto del inglés al español como del español al inglés, garantizando no solo una precisión lingüística impecable y una adaptación cultural profunda, sino también la fiel adhesión al significado conforme al glosario técnico proporcionado por el cliente.",
+    "paragraph3": "Mi enfoque es producir un español neutro, claro y efectivo, así como un inglés natural y preciso, que conecten auténticamente con cada audiencia específica."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "paragraph1": "Gracias a mi combinación única de habilidades lingüísticas, técnicas y creativas, transformaré tu contenido para que conecte auténticamente con tu mercado objetivo.",
+    "paragraph2": "Descubre a continuación cómo estas capacidades pueden impulsar tu proyecto.",
+    "linguistic": {
+      "title": "Lingüísticas",
+      "description": [
+        "Traducción precisa, natural y con adaptación cultural.",
+        "Español neutro, claro y efectivo para audiencias globales.",
+        "Adaptación cultural profunda: mensajes, CTA, referencias.",
+        "Manejo experto de terminología y coherencia de proyecto."
+      ]
+    },
+    "technical": {
+      "title": "Técnicas",
+      "description": [
+        "Desarrollo web: HTML, JS, CSS, Angular, React.",
+        "Manejo experto de formatos de localización (JSON, XML, SRT).",
+        "Comprensión de estructura interna: web, juegos, apps.",
+        "GitHub para control de versiones y colaboración técnica."
+      ]
+    },
+    "creative": {
+      "title": "Creativas",
+      "description": [
+        "Diseño gráfico: Adobe Suite, Blender, Inkscape.",
+        "Localización visual integral: banners, UI, gráficos en pantalla.",
+        "Edición de texto en imágenes/videos con coherencia visual.",
+        "Adaptación de guiones para doblaje y sincronización labial."
+      ]
+    }
+  },
+  "services": {
+    "title": "Servicios de Localización Digital",
+    "paragraph1": "Transformo tu contenido digital para que conecte auténticamente y genere impacto en los mercados globales de habla hispana e inglesa.",
+    "paragraph2": "Mis soluciones integrales, desde sitios web hasta videojuegos y documentos, combinan precisión lingüística, dominio técnico y profunda sensibilidad cultural, asegurando que tu mensaje no solo se entienda, sino que impulse la acción y construya lealtad en cada audiencia.",
+    "webLocalization": {
+      "title": "Localización de Sitios Web",
+      "description": [
+        "Traducción integral de contenido textual (páginas, blogs, UI) del inglés al español y viceversa, con un enfoque en español neutro para máxima resonancia.",
+        "Adaptación cultural estratégica de mensajes y llamadas a la acción (CTA) para optimizar la conversión en los mercados hispanohablante y angloparlante.",
+        "Profunda comprensión técnica de la estructura web (HTML, CSS, JS, frameworks) para facilitar la contextualización, integración impecable y la identificación proactiva de posibles problemas técnicos.",
+        "Localización experta de elementos visuales (banners, infografías) utilizando Adobe Photoshop e Illustrator, garantizando una coherencia visual impactante."
+      ]
+    },
+    "gameLocalization": {
+      "title": "Localización de Videojuegos",
+      "description": [
+        "Traducción inmersiva de diálogos, interfaces de usuario (UI), descripciones, tutoriales y material promocional (EN<>ES) para capturar la esencia del juego.",
+        "Adaptación cultural experta de chistes, referencias y nombres para garantizar una inmersión total del jugador y una experiencia auténtica en ambas culturas.",
+        "Dominio y manejo eficiente de formatos de archivo clave de la industria (JSON, XML, archivos de strings) para asegurar una integración fluida y sin errores en el motor del juego.",
+        "Navegación e integración en los flujos de trabajo de desarrollo de juegos, aportando mi comprensión para optimizar la consistencia terminológica y la calidad final."
+      ]
+    },
+    "audiovisualLocalization": {
+      "title": "Localización de Contenido Audiovisual",
+      "description": [
+        "Traducción y sincronización precisa y natural de subtítulos (formatos SRT, SSA, VTT, etc.) para contenido en inglés y español, mejorando la accesibilidad y el alcance.",
+        "Adaptación creativa de guiones traducidos para proyectos de doblaje, asegurando una naturalidad y sincronización labial que cautive a la audiencia.",
+        "Localización meticulosa de elementos gráficos en pantalla y textos incrustados en videos, manteniendo la estética y claridad del original."
+      ]
+    },
+    "appLocalization": {
+      "title": "Localización de Aplicaciones",
+      "description": [
+        "Traducción detallada de interfaces de usuario, mensajes del sistema, documentación de ayuda y marketing para apps móviles, web y de escritorio (EN<>ES), enfocada en la usabilidad.",
+        "Gestión experta de archivos de localización (JSON, XML, PO, INF y otros formatos específicos) para asegurar la correcta implementación en diversas plataformas.",
+        "Colaboración activa en pruebas de localización (LQA) para garantizar la correcta visualización, funcionalidad y una experiencia de usuario impecable.",
+        "Adaptación cultural integral para ofrecer una experiencia de usuario fluida, intuitiva y coherente en los mercados objetivo."
+      ]
+    },
+    "documentTranslation": {
+      "title": "Traducción de Documentos",
+      "description": [
+        "Traducción precisa, fluida y profesional de todo tipo de documentos: técnicos, de marketing, legales, corporativos (EN<>ES), adaptada a cada propósito.",
+        "Manejo avanzado de Microsoft Office Suite (Word, Excel, PowerPoint) para entregar documentos con formato profesional y listos para usar.",
+        "Adhesión rigurosa a la terminología específica y guías de estilo proporcionadas por el cliente, asegurando la consistencia y la voz de marca.",
+        "Revisión y edición meticulosa para garantizar la máxima calidad, claridad, precisión y corrección en cada documento entregado."
+      ]
+    }
+  },
+  "examples": {
+    "title": "Ejemplos de Localización",
+    "json": {
+      "title": "JSON (.json)",
+      "description": "Ampliamente utilizado para aplicaciones web, aplicaciones móviles, configuraciones de juegos y respuestas de API."
+    },
+    "xml": {
+      "title": "XML (.xml)",
+      "description": "Común en el desarrollo de aplicaciones Android (strings.xml), localización de software (ej. archivos .resx) e intercambio de datos estructurados."
+    },
+    "srt": {
+      "title": "SubRip Text (.srt)",
+      "description": "Uno de los formatos de archivo de subtítulos más comunes. Incluye numeración secuencial, códigos de tiempo para inicio y fin de visualización, y el texto del subtítulo."
+    },
+    "po": {
+      "title": "Portable Object (.po)",
+      "description": "Utilizado por GNU gettext, un sistema de localización común en software de código abierto y muchos frameworks web (como Django, WordPress)."
+    },
+    "strings_file": {
+      "title": "Apple iOS/macOS (.strings)",
+      "description": "Formato de pares clave-valor utilizado para localizar aplicaciones en plataformas Apple."
+    },
+    "bannerImage": "/images/banner_es.jpg",
+    "bannerDescription": "Esta imagen cambia según el idioma seleccionado",
+    "imageAlt": "Banner promocional"
+  },
+  "footer": {
+    "text": "© 2025 {{name}}. Todos los derechos reservados.",
+    "brandDescription": "Ayudándote a conectar con el mundo digital a través de la localización experta de contenido del inglés al español y viceversa.",
+    "connectTitle": "Conecta",
+    "addressTitle": "Contáctame"
+  }
+}

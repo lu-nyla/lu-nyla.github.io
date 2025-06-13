@@ -1,0 +1,33 @@
+{
+  "name": "Lucia Álvarez",
+  "location": "Buenos Aires, Argentina",
+  "social_media": {
+    "email": "",
+    "facebook": "",
+    "instagram": "",
+    "freelancer": "hollywoodnyla",
+    "github": "lu-nyla/lu-nyla.github.io"
+  },
+  "code_samples": {
+    "json": {
+      "en_code": "{\n  \"app_title\": \"My Awesome App\",\n  \"welcome_message\": \"Hello, {{name}}! Welcome back.\",\n  \"buttons\": {\n    \"submit\": \"Submit\",\n    \"cancel\": \"Cancel\"\n  }\n}",
+      "es_code": "{\n  \"app_title\": \"Mi Aplicación Genial\",\n  \"welcome_message\": \"¡Hola, {{name}}! Bienvenido de nuevo.\",\n  \"buttons\": {\n    \"submit\": \"Enviar\",\n    \"cancel\": \"Cancelar\"\n  }\n}"
+    },
+    "xml": {
+      "en_code": "<resources>\n  <string name=\"app_name\">My App</string>\n  <string name=\"action_settings\">Settings</string>\n  <string name=\"error_network\">Network error, please try again.</string>\n</resources>",
+      "es_code": "<resources>\n  <string name=\"app_name\">Mi App</string>\n  <string name=\"action_settings\">Configuración</string>\n  <string name=\"error_network\">Error de red, por favor inténtalo de nuevo.</string>\n</resources>"
+    },
+    "srt": {
+      "en_code": "1\n00:00:05,500 --> 00:00:08,000\nThis is the first subtitle.\n\n2\n00:00:09,000 --> 00:00:15,500\nAnd this is another one, demonstrating a longer duration.",
+      "es_code": "1\n00:00:05,500 --> 00:00:08,000\nEste es el primer subtítulo.\n\n2\n00:00:09,000 --> 00:00:15,500\nY este es otro, demostrando una duración más larga."
+    },
+    "po": {
+      "en_code": "msgid \"An error occurred\"\nmsgstr \"\"\n\nmsgid \"File not found: %s\"\nmsgstr \"\"",
+      "es_code": "msgid \"An error occurred\"\nmsgstr \"Ocurrió un error\"\n\nmsgid \"File not found: %s\"\nmsgstr \"Archivo no encontrado: %s\""
+    },
+    "strings_file": {
+      "en_code": "\"CFBundleDisplayName\" = \"My App\";\n\"NSHumanReadableCopyright\" = \"© 2024 Your Company. All rights reserved.\";\n\"WELCOME_TEXT\" = \"Welcome to the app!\";",
+      "es_code": "\"CFBundleDisplayName\" = \"Mi App\";\n\"NSHumanReadableCopyright\" = \"© 2024 Tu Empresa. Todos los derechos reservados.\";\n\"WELCOME_TEXT\" = \"¡Bienvenido a la aplicación!\";"
+    }
+  }
+}
